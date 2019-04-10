@@ -19,7 +19,7 @@ using System.Windows;
 
 namespace Xceed.Wpf.Toolkit
 {
-  internal class UIntegerUpDown : CommonNumericUpDown<uint>
+  public class UIntegerUpDown : CommonNumericUpDown<uint>
   {
     #region Constructors
 

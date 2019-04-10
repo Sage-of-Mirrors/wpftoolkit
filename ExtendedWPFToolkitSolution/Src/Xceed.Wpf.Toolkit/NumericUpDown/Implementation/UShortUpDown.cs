@@ -19,7 +19,7 @@ using System.Windows;
 
 namespace Xceed.Wpf.Toolkit
 {
-  internal class UShortUpDown : CommonNumericUpDown<ushort>
+  public class UShortUpDown : CommonNumericUpDown<ushort>
   {
     #region Constructors
 

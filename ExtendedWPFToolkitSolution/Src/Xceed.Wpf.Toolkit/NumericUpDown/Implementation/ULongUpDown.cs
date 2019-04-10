@@ -19,7 +19,7 @@ using System.Windows;
 
 namespace Xceed.Wpf.Toolkit
 {
-  internal class ULongUpDown : CommonNumericUpDown<ulong>
+  public class ULongUpDown : CommonNumericUpDown<ulong>
   {
     #region Constructors
 
